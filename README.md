@@ -1,1 +1,2 @@
-# Traffic-Controller-System
+Aplicația Traffic Controller System pe care o descrii are rolul de a simula și gestiona controlul traficului într-o zonă urbană sau pe o rețea de drumuri folosind semafoare și rute. Este o aplicație complexă care automatizează procesele de control al semafoarelor, rutele disponibile și evenimentele de trafic (accidente, devieri etc.).
+Aplicația are scopul de a facilita gestionarea traficului printr-un sistem automatizat care controlează semafoarele, rutele și evenimentele de trafic. De asemenea, permite un control al semafoarelor bazat pe locație și poate permite actualizări în timp real ale semafoarelor sau rutelor.
